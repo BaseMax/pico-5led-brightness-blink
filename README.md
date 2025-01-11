@@ -9,6 +9,10 @@ This project demonstrates how to control a set of 5 LEDs connected to a Raspberr
 - **Both Buttons Together**: Lights up all LEDs at full brightness.
 - **Adjustable Brightness**: Use a potentiometer to control LED brightness dynamically.
 
+![LED Control Project with Raspberry Pi Pico](bord.jpg)
+
+![LED Control Project with Raspberry Pi Pico](demo.jpg)
+
 ## Components
 
 - 1x Raspberry Pi Pico
